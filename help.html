@@ -1,0 +1,409 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Shubhkaryajodi</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Find the matrimonial PHP script. We offer Lite version of matrimony software in India and abroad.">
+  <link rel="icon" href="public/assets/logo/icon.png">
+
+  <!-- All Css Files Included  -->
+  <link rel="stylesheet" href="public/web/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="public/web/assets/css/animate.css">
+  <link rel="stylesheet" href="public/web/assets/css/select-2.css">
+  <link rel="stylesheet" href="public/web/assets/css/slick.css">
+  <link rel="stylesheet" href="public/web/assets/css/rangeSlider.css">
+  <!-- Icons. Uncomment required icon fonts -->
+  <link rel="stylesheet" href="public/web/assets/fonts/icons/boxicons.css">
+  <link rel="stylesheet" href="public/web/assets/css/main.css">
+  <link rel="stylesheet" href="public/web/assets/css/responsive.css">
+</head>
+
+<body>
+            <!-- desktop navbar -->
+
+<!-- navbar start  -->
+<nav class="navbar navbar-expand-lg py-2 py-lg-3" aria-label="">
+    <div class="container">
+      <div class="position-relative d-flex w-100 align-items-center justify-content-between">
+        <a class="desktop-logo" href="index.htm">
+          <img src="public/assets/logo/main-logo.png" alt="Logo" srcset="public/assets/logo/main-logo.png 2x" class="logo-here d-block d-lg-none">
+          </a>
+        <button class="cstm-chnagebtn navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="mobile_navbgset collapse justify-content-between w-100 navbar-collapse" id="navbarNav">
+          <a class="desktop-logo" href="index.htm">
+            <img src="public/assets/logo/main-logo.png" alt="Logo" srcset="public/assets/logo/main-logo.png 2x" class="logo-here d-none d-lg-block">
+            </a>
+          <ul class="desk-navlist-main d-lg-flex gap-2">
+            <li class="dropdown">
+              <a href="#" class="fts-14 dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false">Home 3
+              </a>
+              <ul class="dropdownstyle-lite dropdown-menu">
+                <li>
+                  <a class="dropdown-item" href="home/1.html">Home Page 1</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="home/2.html">Home Page 2</a>
+                </li>
+                <li>
+                  <a class="dropdown-item active" href="home/3.html">Home Page 3</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="fts-14 dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false">Search
+              </a>
+              <ul class="dropdownstyle-lite dropdown-menu">
+                <li>
+                  <a class="dropdown-item " href="quick-search.html">Quick Search</a>
+                </li>
+                <li>
+                  <a class="dropdown-item " href="advanced-search.html">Advance Search</a>
+                </li>
+                <li>
+                  <a class="dropdown-item " href="id-search.html">ID Search</a>
+                </li>
+              </ul>
+            </li>
+            <li><a href="membership-plan.html" class="fts-14 ">Membership Plan</a></li>
+            <li><a href="success-story.html" class="fts-14 ">Success Stories</a></li>
+            <li><a href="contact.html" class="fts-14 ">Contact Us</a></li>
+          </ul>
+          <ul class="navdesktop-btns d-flex gap-3 mt-3 mt-lg-0">
+            <li><a href="register.html" class="nav-signin-btn alternate-btn-hover">Register</a></li>
+            <li><a href="login.html" class="nav-login-btn primary-btn-hover">Log in</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+</nav>
+<!-- navbar end -->
+        
+<section class="All-cmspages-main white-bgcolor-L">
+  <div class="container py-2">
+    <nav aria-label="breadcrumb" class="gray1-bgcolor-L rounded-4 px-4 py-3">
+      <ol class="breadcrumb m-0 align-items-center ps-1">
+        <li class="breadcrumb-item">
+          <a href="index.htm">
+              <img src="public/web/assets/img/icons/home-breadcrumb.svg" alt="">
+          </a>
+        </li>
+        <li class="breadcrumb-item p2 pt-1 dark-label-color-L ps-0 active" aria-current="page">Help</li>
+      </ol>
+    </nav>
+  </div>
+  <div class="contact_ussecMain py-lg-5 py-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="left_contactdetails-main">
+            <div class="bottom_contact-form">
+              <div class="fts-18 Poppins-SemiBold black-color-L">Help & Support</div>
+              <div class="p2 mt-1">Matrimonial Software, we are always striving to better your experience.</div>
+              <div class="alert alert-error-msg alert-dismissible fade show errorMsg d-none" role="alert" id="errorMsg">
+                <span class="msg-set" id="responseErrMsg"></span>
+              </div>
+              <div class="alert alert-success-msg alert-dismissible fade show successMsg d-none" role="alert" id="successMsg">
+                  <span class="msg-set" id="responseSucMsg"></span>
+              </div>
+              <form action="https://www.gloriousmatrimonial.com/help-inqury" name="feedbackForm" id="feedbackForm" method="POST">
+              <input type="hidden" name="_token" value="0MZI0E6GTOyAvhPMNM9OyerX5xmL9UseiRqM4BGr">                <div class="row mt-4 mt-lg-5">
+                  <div class="col-lg-6 col-md-6">
+                    <div class="comman_inputfield_main mb-3 mb-lg-4">
+                      <input type="text" required="" name="name" id="name" placeholder="" class="input_comman_field">
+                      <label for="floatingInput">Name</label>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 col-md-6">
+                    <div class="comman_inputfield_main mb-3 mb-lg-4">
+                      <input type="email" name="email" id="email" required="" placeholder="" class="input_comman_field">
+                      <label for="floatingInput">Email</label>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 col-md-6">
+                    <div class="d-flex gap-3">
+                      <div class="custom-select2-div country-code">
+                        <div class="edit_inputMain-sltr w-100">
+                          <select name="country_code" required="" class="Single_searchDv">
+                            <option value="+376">+376</option><option value="+971">+971</option><option value="+93">+93</option><option value="+1268">+1268</option><option value="+355">+355</option><option value="+374">+374</option><option value="+244">+244</option><option value="+672">+672</option><option value="+54">+54</option><option value="+1684">+1684</option><option value="+43">+43</option><option value="+61">+61</option><option value="+297">+297</option><option value="+263">+263</option><option value="+994">+994</option><option value="+387">+387</option><option value="+1246">+1246</option><option value="+880">+880</option><option value="+32">+32</option><option value="+226">+226</option><option value="+359">+359</option><option value="+973">+973</option><option value="+257">+257</option><option value="+229">+229</option><option value="+1441">+1441</option><option value="+673">+673</option><option value="+591">+591</option><option value="+263">+263</option><option value="+55">+55</option><option value="+1242">+1242</option><option value="+975">+975</option><option value="+47">+47</option><option value="+267">+267</option><option value="+375">+375</option><option value="+501">+501</option><option value="+1">+1</option><option value="+242">+242</option><option value="+236">+236</option><option value="+242">+242</option><option value="+41">+41</option><option value="+225">+225</option><option value="+56">+56</option><option value="+237">+237</option><option value="+86">+86</option><option value="+57">+57</option><option value="+506">+506</option><option value="+53">+53</option><option value="+238">+238</option><option value="+357">+357</option><option value="+420">+420</option><option value="+49">+49</option><option value="+253">+253</option><option value="+45">+45</option><option value="+1767">+1767</option><option value="+1809">+1809</option><option value="+213">+213</option><option value="+593">+593</option><option value="+372">+372</option><option value="+20">+20</option><option value="+212">+212</option><option value="+291">+291</option><option value="+34">+34</option><option value="+251">+251</option><option value="+358">+358</option><option value="+679">+679</option><option value="+691">+691</option><option value="+298">+298</option><option value="+33">+33</option><option value="+241">+241</option><option value="+44">+44</option><option value="+1473">+1473</option><option value="+995">+995</option><option value="+594">+594</option><option value="+263">+263</option><option value="+233">+233</option><option value="+299">+299</option><option value="+220">+220</option><option value="+224">+224</option><option value="+590">+590</option><option value="+240">+240</option><option value="+30">+30</option><option value="+502">+502</option><option value="+1671">+1671</option><option value="+245">+245</option><option value="+592">+592</option><option value="+852">+852</option><option value="+504">+504</option><option value="+385">+385</option><option value="+509">+509</option><option value="+36">+36</option><option value="+62">+62</option><option value="+353">+353</option><option value="+972">+972</option><option value="+263">+263</option><option selected="" value="+91">+91</option><option value="+246">+246</option><option value="+964">+964</option><option value="+98">+98</option><option value="+354">+354</option><option value="+39">+39</option><option value="+263">+263</option><option value="+1876">+1876</option><option value="+962">+962</option><option value="+81">+81</option><option value="+254">+254</option><option value="+996">+996</option><option value="+855">+855</option><option value="+686">+686</option><option value="+269">+269</option><option value="+1869">+1869</option><option value="+850">+850</option><option value="+82">+82</option><option value="+965">+965</option><option value="+7">+7</option><option value="+856">+856</option><option value="+961">+961</option><option value="+1758">+1758</option><option value="+423">+423</option><option value="+94">+94</option><option value="+231">+231</option><option value="+266">+266</option><option value="+370">+370</option><option value="+352">+352</option><option value="+371">+371</option><option value="+218">+218</option><option value="+212">+212</option><option value="+377">+377</option><option value="+373">+373</option><option value="+263">+263</option><option value="+261">+261</option><option value="+692">+692</option><option value="+389">+389</option><option value="+223">+223</option><option value="+95">+95</option><option value="+976">+976</option><option value="+853">+853</option><option value="+1670">+1670</option><option value="+596">+596</option><option value="+222">+222</option><option value="+1664">+1664</option><option value="+230">+230</option><option value="+960">+960</option><option value="+265">+265</option><option value="+52">+52</option><option value="+60">+60</option><option value="+258">+258</option><option value="+264">+264</option><option value="+687">+687</option><option value="+227">+227</option><option value="+234">+234</option><option value="+505">+505</option><option value="+31">+31</option><option value="+47">+47</option><option value="+977">+977</option><option value="+674">+674</option><option value="+64">+64</option><option value="+968">+968</option><option value="+507">+507</option><option value="+51">+51</option><option value="+689">+689</option><option value="+675">+675</option><option value="+63">+63</option><option value="+92">+92</option><option value="+48">+48</option><option value="+508">+508</option><option value="+1787">+1787</option><option value="+970">+970</option><option value="+351">+351</option><option value="+680">+680</option><option value="+595">+595</option><option value="+974">+974</option><option value="+262">+262</option><option value="+40">+40</option><option value="+263">+263</option><option value="+70">+70</option><option value="+250">+250</option><option value="+966">+966</option><option value="+677">+677</option><option value="+248">+248</option><option value="+249">+249</option><option value="+46">+46</option><option value="+65">+65</option><option value="+290">+290</option><option value="+386">+386</option><option value="+47">+47</option><option value="+421">+421</option><option value="+232">+232</option><option value="+378">+378</option><option value="+221">+221</option><option value="+252">+252</option><option value="+597">+597</option><option value="+263">+263</option><option value="+239">+239</option><option value="+503">+503</option><option value="+963">+963</option><option value="+268">+268</option><option value="+235">+235</option><option value="+260">+260</option><option value="+228">+228</option><option value="+66">+66</option><option value="+992">+992</option><option value="+690">+690</option><option value="+670">+670</option><option value="+7370">+7370</option><option value="+216">+216</option><option value="+676">+676</option><option value="+90">+90</option><option value="+1868">+1868</option><option value="+688">+688</option><option value="+886">+886</option><option value="+255">+255</option><option value="+380">+380</option><option value="+256">+256</option><option value="+1">+1</option><option value="+1">+1</option><option value="+598">+598</option><option value="+998">+998</option><option value="+1784">+1784</option><option value="+58">+58</option><option value="+1340">+1340</option><option value="+84">+84</option><option value="+678">+678</option><option value="+681">+681</option><option value="+684">+684</option><option value="+263">+263</option><option value="+967">+967</option><option value="+269">+269</option><option value="+27">+27</option><option value="+260">+260</option><option value="+263">+263</option><option value="+914">+914</option><option value="+44">+44</option>                          </select>
+                        </div>
+                      </div>
+                      <div class="comman_inputfield_main position-relative w-100 mb-3 mb-lg-4">
+                        <input type="number" name="mobile_number" required="" id="mobile_number" placeholder="" class="input_comman_field">
+                        <label for="floatingInput">Contact Number</label>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 col-md-6">
+                    <div class="comman_inputfield_main position-relative w-100 mb-3 mb-lg-4">
+                      <input type="text" name="subject" required="" id="subject" placeholder="" class="input_comman_field">
+                      <label for="floatingInput">Subject</label>
+                    </div>
+                  </div>
+                  <div class="col-lg-12 col-md-12">
+                    <div class="comman_inputfield_main mb-3 mb-lg-4">
+                      <textarea name="description" required="" id="floatingTextarea2" class="input_comman_field textareasize" placeholder=""></textarea>
+                      <label for="floatingTextarea2">Description</label>
+                    </div>
+                  </div>
+                  <div class="col-lg-12 col-12">
+                    <a href="javascript:void(0);" class="getstarted-btn-how primary-btn-hover w-auto h6 submitInquiry">Submit</a>
+                  </div>
+                </div>
+              </form>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 col-12">
+          <div class="main-contactaboutsides d-block d-md-flex d-lg-block mt-3 mt-lg-0 gray1-bgcolor-L rounded-4 p-2">
+    <div class="toplist-matches white-bgcolor-L box-shadow-r-l rounded-4 px-4 py-4 w-100">
+        <div class="h4 black-color-L">No. 1 Matchmaking Services</div>
+        <ul class="listmatchis-items">
+            <li class="p2 gray4-color-L mt-lg-3 mt-2">
+                Browse and search Profiles.
+            </li>
+            <li class="p2 gray4-color-L mt-lg-3 mt-2">
+                Show interest in other users.
+            </li>
+            <li class="p2 gray4-color-L mt-lg-3 mt-2">
+                View public photos of other users
+            </li>
+            <li class="p2 gray4-color-L mt-lg-3 mt-2">
+                Initiate chats with other users
+            </li>
+            <li class="p2 gray4-color-L mt-lg-3 mt-2">
+                Most of the features is free
+            </li>
+        </ul>
+    </div>
+    <div class="privacy_number-boxed mt-3 gray2-bgcolor-L rounded-4 text-center px-lg-4 px-3 pb-lg-5 pb-4 w-100">
+        <img src="public/web/assets/img/OTP-security-img.png" alt="" class="w-75">
+        <div class="h4 black-color-L">
+            Genuine Profiles with 100% Verified Mobile Numbers
+        </div>
+        <a href="login.html" class="getstarted-btn-how primary-btn-hover mt-3">Get Started</a>
+    </div>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<input type="hidden" id="map_address" value="india">
+<input type="hidden" id="map_tooltip" value="india">
+
+<!-- Photo Request Popup -->
+<input type="hidden" name="memberActionId" id="memberActionId" value="">
+<div class="customsmallmodel_light couponsize z-index modal fade" id="photoRequest" tabindex="-1" aria-labelledby="photoRequestLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header mx-3 mx-lg-4 pt-3">
+        <h1 class="fts-18 Poppins-SemiBold black-color-L" id="photoRequestLabel">Send Photo <span class="pink-color-L">Request</span></h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal_liteBody px-3 px-lg-4 py-3">
+        <div class="alert alert-error-msg alert-dismissible fade show errorMsgPR d-none" role="alert" id="errorMsgPR">
+          <span class="msg-set" id="responseErrMsgPR"></span>
+        </div>
+        <div class="alert alert-success-msg alert-dismissible fade show successMsgPR d-none" role="alert" id="successMsgPR">
+          <span class="msg-set" id="responseSucMsgPR"></span>
+        </div>
+        <div class="mt-3 fts-16 poppins-Regular black-color-L">
+          I am interested in your profile. I would like to view photo now, accept photo request
+        </div>
+        <div class="modal-buttonsGroup d-flex justify-content-end gap-2 px-3 px-lg-4 pb-4 mt-4">
+          <button type="button" class="click-changeButton
+          sendPhotoRequest" data-id="">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Photo Request Popup -->
+
+<!-- Login Popup Start-->
+<div class="customsmallmodel_light couponsize modal fade" id="LoginRequired" tabindex="-1" aria-labelledby="LoginRequiredLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered w-50">
+    <div class="modal-content">
+      <div class="modal-header mx-3 mx-lg-4 pt-3">
+        <h1 class="fts-18 Poppins-SemiBold black-color-L" id="LoginRequiredLabel">Login</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal_liteBody px-3 px-lg-4 py-3">
+        <div class="modal_liteBody pt-lg-4 px-2 pt-4">
+          <div class="d-block d-lg-flex d-md-flex gap-3">
+            <div class="d-flex gap-2 gap-lg-3 gap-md-3 w-100">
+              <div class="comman_inputfield_main position-relative w-100">
+                <div class="alert alert-error-msg alert-dismissible fade show errorMsgRS" role="alert" id="errorMsgRS">
+                  <span class="msg-set" id="responseErrMsgRS">Please Login First</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Login Popup End-->
+
+<!-- Crop Photo Popup Start  -->
+<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg p-4 p-md-0" role="document">
+      <div class="modal-content">
+          <div class="modal-header p-0 border-0 position-relative">
+              <button type="button" class="close ctmcropclose" data-bs-dismiss="modal" aria-label="Close">
+                  <i class="fal fa-times"></i>
+              </button>
+          </div>
+          <div class="modal-body">
+              <div class="img-container">
+                  <div class="row">
+                      <div class="col-md-8 ps-lg-5">
+                        <div class="cropping_imagmain">
+                          <img id="image" src="https://www.gloriousmatrimonial.com/public//web/assets/images/placeholder.png" alt="">
+                        </div>
+                      </div>
+                      <div class="col-md-4 mt-4 mt-lg-0 mt-md-0">
+                          <div class="ctms-prevuisfa">
+                              <div class="preview"></div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="modal-footer">
+              
+              
+              <button type="button" class="btn primary-bgcolor-L white-color-L px-5" id="crop">Crop</button>
+          </div>
+      </div>
+  </div>
+</div>
+<!-- Crop Photo Popup End  -->
+
+  <!-- footer section start  -->
+  <footer class="pt-lg-5 pt-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+              <div class="footer_linking-mng">
+                <div class="h4 black-color-L">Help & Support</div>
+                <ul class="footerlist mt-2 mt-lg-3">
+                  <li><a href="contact.html" class="p2 gray4-color-L">Contact Us</a></li>
+                  <li><a href="faq.html" class="p2 gray4-color-L">FAQs</a></li>
+                  <li><a href="help.html" class="p2 gray4-color-L">Help</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+              <div class="footer_linking-mng">
+                <div class="h4 black-color-L">Information</div>
+                <ul class="footerlist mt-2 mt-lg-3">
+                  <li><a href="about-us.html" class="p2 gray4-color-L">About us</a></li>
+                                                        <li><a href="cms/sdfgs.html" class="p2 gray4-color-L">ShubhKaryaJodi</a></li>
+                                      <li><a href="cms/Terms-and-Condition.html" class="p2 gray4-color-L">Terms and Condition</a></li>
+                                      <li><a href="cms/Report-Misuse.html" class="p2 gray4-color-L">Report Misuse</a></li>
+                                      <li><a href="cms/privacy-policy.html" class="p2 gray4-color-L">Privacy Policy</a></li>
+                                  </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 mt-4 mt-lg-0 mt-md-0 mt-sm-0">
+              <div class="footer_linking-mng">
+                <div class="h4 black-color-L">Others</div>
+                <ul class="footerlist mt-2 mt-lg-3">
+                                      <li><a href="register.html" class="p2 gray4-color-L">Register</a></li>
+                    <li><a href="login.html" class="p2 gray4-color-L">Login</a></li>
+                                    <li><a href="blog.html" class="p2 gray4-color-L">Blog</a></li>
+                  <li><a href="success-story.html" class="p2 gray4-color-L">Success Stories</a></li>
+                  <li><a href="membership-plan.html" class="p2 gray4-color-L">Membership Plan</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mt-4 mt-lg-0">
+          <div class="footer-right-part">
+            <div class="h5 dark-label-color-L letter-spacing-1">Let’s Talk</div>
+            <div class="h3 Oxford-Blue-color-L mt-1">Let’s Talk
+              <img src="public/web/assets/img/icons/footer-right-arrow.svg" alt="">
+            </div>
+            <div class="alert alert-error-msg alert-dismissible fade show errorMsgSus d-none" role="alert" id="errorMsgSus">
+                <span class="msg-set" id="responseErrMsgSus"></span>
+            </div>
+            <div class="alert alert-success-msg alert-dismissible fade show successMsgSus d-none" role="alert" id="successMsgSus">
+              <span class="msg-set" id="responseSucMsgSus"></span>
+            </div>
+            <form action="https://www.gloriousmatrimonial.com/subscribed" name="subscribeForm" id="subscribeForm" class="mt-lg-4 mt-3" method="POST">
+              <input type="hidden" name="_token" value="0MZI0E6GTOyAvhPMNM9OyerX5xmL9UseiRqM4BGr">              <div class="comman_inputfield_main position-relative">
+                <input type="email" name="email" required="" id="email" placeholder="Enter your email" class="input_comman_field ps-5">
+                <img src="public/web/assets/img/icons/footer-mail-icon.svg" alt="" class="email-iconset">
+                <button type="button" class="send-now-btn primary-btn-hover submitSubscribeForm">
+                  Send Now!
+                </button>
+              </div>
+            </form>
+            <div class="email-phons mt-lg-4 mt-4">
+              <a href="" class="gray4-color-L h6">
+                +91-00 XXXX 000
+              </a>
+              <div class="sntr"></div>
+              <a href="" class="gray4-color-L h6">
+                info@xyz.com
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="copy-right-footers gray2-bgcolor-L py-2 mt-lg-5 mt-4">
+      <div class="container py-1">
+        <div class="d-lg-flex d-md-flex text-center align-items-center justify-content-between">
+          <div class="d-flex justify-content-center align-items-center gap-2 dark-label-color-L p2 align-items-center">
+            
+                          <a target="_blank" href="https://www.facebook.com/" class="dark-label-color-L p2" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="Facebook" rel="noopener">Facebook</a>
+                                      /<a target="_blank" href="https://twitter.com/" class="dark-label-color-L p2" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="Twitter" rel="noopener">Twitter</a>
+                                      /<a target="_blank" href="https://www.instagram.com/" class="dark-label-color-L p2" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="Instagram" rel="noopener">Instagram</a>
+                                      /<a target="_blank" href="https://in.linkedin.com/" class="dark-label-color-L p2" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="Linked In" rel="noopener">LinkedIn</a>
+                      </div>
+          <div class="p2 dark-label-color-L mt-1 mt-lg-0">© Copyright 2023</div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="d-none">
+  
+  </div>
+  <!-- progress bar bottom to top  -->
+  <div class="progress-wrap">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewbox="-1 -1 102 102">
+      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+    </svg>
+  </div>
+
+  <!-- Base Url -->
+  <input type="hidden" id="base_url" name="base_url" value="https://www.gloriousmatrimonial.com">
+  <input type="hidden" id="baseUrlImage" name="baseUrlImage" value="https://www.gloriousmatrimonial.com/public/">
+  <!-- all js file include  -->
+  <script src="public/web/assets/js/jQuery.js"></script>
+  <script src="public/web/assets/js/bootstrap.bundle.js"></script>
+  <script src="public/web/assets/js/select-2.js"></script>
+  <script src="public/web/assets/js/wow.js"></script>
+  <script src="public/web/assets/js/slick.js"></script>
+  <script src="public/web/assets/js/slick.min.js"></script>
+  <script src="public/web/assets/js/rangeSlider.js"></script>
+  <script src="public/web/assets/js/main.js"></script>
+  <script src="public/web/custom/js/common.js"></script>
+  <script src="public/web/custom/js/jquery.validate.min.js"></script>
+  <script src="ajax/libs/canvas-confetti/1.6.0/confetti.js"></script>
+            <script src="public/web/custom/js/feedback/feedback.js"></script>
+          </body>
+</html>

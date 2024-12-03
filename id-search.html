@@ -1,0 +1,751 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Shubhkaryajodi</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Find the matrimonial PHP script. We offer Lite version of matrimony software in India and abroad.">
+  <link rel="icon" href="public/assets/logo/icon.png">
+
+  <!-- All Css Files Included  -->
+  <link rel="stylesheet" href="public/web/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="public/web/assets/css/animate.css">
+  <link rel="stylesheet" href="public/web/assets/css/select-2.css">
+  <link rel="stylesheet" href="public/web/assets/css/slick.css">
+  <link rel="stylesheet" href="public/web/assets/css/rangeSlider.css">
+  <!-- Icons. Uncomment required icon fonts -->
+  <link rel="stylesheet" href="public/web/assets/fonts/icons/boxicons.css">
+  <link rel="stylesheet" href="public/web/assets/css/main.css">
+  <link rel="stylesheet" href="public/web/assets/css/responsive.css">
+</head>
+
+<body>
+            <!-- desktop navbar -->
+
+<!-- navbar start  -->
+<nav class="navbar navbar-expand-lg py-2 py-lg-3" aria-label="">
+    <div class="container">
+      <div class="position-relative d-flex w-100 align-items-center justify-content-between">
+        <a class="desktop-logo" href="index.htm">
+          <img src="public/assets/logo/main-logo.png" alt="Logo" srcset="public/assets/logo/main-logo.png 2x" class="logo-here d-block d-lg-none">
+          </a>
+        <button class="cstm-chnagebtn navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="mobile_navbgset collapse justify-content-between w-100 navbar-collapse" id="navbarNav">
+          <a class="desktop-logo" href="index.htm">
+            <img src="public/assets/logo/main-logo.png" alt="Logo" srcset="public/assets/logo/main-logo.png 2x" class="logo-here d-none d-lg-block">
+            </a>
+          <ul class="desk-navlist-main d-lg-flex gap-2">
+            <li class="dropdown">
+              <a href="#" class="fts-14 dropdown-toggle " data-bs-toggle="dropdown" aria-expanded="false">Home 3
+              </a>
+              <ul class="dropdownstyle-lite dropdown-menu">
+                <li>
+                  <a class="dropdown-item" href="home/1.html">Home Page 1</a>
+                </li>
+                <li>
+                  <a class="dropdown-item" href="home/2.html">Home Page 2</a>
+                </li>
+                <li>
+                  <a class="dropdown-item active" href="home/3.html">Home Page 3</a>
+                </li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="fts-14 dropdown-toggle active" data-bs-toggle="dropdown" aria-expanded="false">Search
+              </a>
+              <ul class="dropdownstyle-lite dropdown-menu">
+                <li>
+                  <a class="dropdown-item " href="quick-search.html">Quick Search</a>
+                </li>
+                <li>
+                  <a class="dropdown-item " href="advanced-search.html">Advance Search</a>
+                </li>
+                <li>
+                  <a class="dropdown-item active" href="id-search.html">ID Search</a>
+                </li>
+              </ul>
+            </li>
+            <li><a href="membership-plan.html" class="fts-14 ">Membership Plan</a></li>
+            <li><a href="success-story.html" class="fts-14 ">Success Stories</a></li>
+            <li><a href="contact.html" class="fts-14 ">Contact Us</a></li>
+          </ul>
+          <ul class="navdesktop-btns d-flex gap-3 mt-3 mt-lg-0">
+            <li><a href="register.html" class="nav-signin-btn alternate-btn-hover">Register</a></li>
+            <li><a href="login.html" class="nav-login-btn primary-btn-hover">Log in</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+</nav>
+<!-- navbar end -->
+          <!-- quick search & Advance search & id search start  -->
+  <section class="All-cmspages-main white-bgcolor-L">
+    <div class="container py-2">
+      <nav aria-label="breadcrumb" class="gray1-bgcolor-L rounded-4 px-4 py-3">
+        <ol class="breadcrumb m-0 align-items-center ps-1">
+          <li class="breadcrumb-item">
+            <a href="index.htm">
+              <img src="public/web/assets/img/icons/home-breadcrumb.svg" alt="">
+            </a>
+          </li>
+          
+          <li class="breadcrumb-item p2 pt-1 dark-label-color-L ps-0 active" aria-current="page">Search</li>
+        </ol>
+      </nav>
+    </div>
+    <div class="serchis_pagedivs pt-4 pb-lg-5 pb-4">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-12">
+            <div class="bg-searching-div gray1-bgcolor-L rounded-5 p-2">
+              <div class="searching_leftside-main white-bgcolor-L rounded-5 px-3 py-3">
+                                <ul class="nav gray1-bgcolor-L p-1 rounded-3 nav-pills" id="pills-tab" role="tablist">
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link fts-14 " id="pills-quicksearch-tab" data-bs-toggle="pill" data-bs-target="#pills-quicksearch" type="button" role="tab" aria-controls="pills-quicksearch" aria-selected="true"><img src="assets/img/icons/search-icon-sp.png" alt="">Quick Search</button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link fts-14 " id="pills-advancesearch-tab" data-bs-toggle="pill" data-bs-target="#pills-advancesearch" type="button" role="tab" aria-controls="pills-advancesearch" aria-selected="false"><img src="assets/img/icons/advance-search-icon.png" alt="">
+                      Advance Search</button>
+                  </li>
+                  <li class="nav-item" role="presentation">
+                    <button class="nav-link fts-14 active" id="pills-idsearch-tab" data-bs-toggle="pill" data-bs-target="#pills-idsearch" type="button" role="tab" aria-controls="pills-idsearch" aria-selected="false"><img src="assets/img/icons/id-search-icon.png" alt="">ID Search</button>
+                  </li>
+                </ul>
+                <div class="tab_searching-inners mt-4">
+                  <div class="tab-content" id="pills-tabContent">
+                    <div class="tab-pane fade " id="pills-quicksearch" role="tabpanel" quicksearch="" aria-labelledby="pills-home-tab" tabindex="0">
+    <form name="quickSearchForm" id="quickSearchForm" action="https://www.gloriousmatrimonial.com/search/set-search" method="POST">
+    <input type="hidden" name="_token" value="0MZI0E6GTOyAvhPMNM9OyerX5xmL9UseiRqM4BGr">        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <div class="height_Age_box-set mb-3 mb-lg-4">
+                <div class="h5 black-color-L letter-spacing-1 text-uppercase mb-2">Select Age</div>
+                    <div class="age_height_ranged px-2">
+                        <input type="text" class="js-range-slider-2" name="my_range" value="" data-skin="round" data-type="double" data-min="18" data-max="60" data-grid="false">
+                        <input type="hidden" name="from_age" id="from_age" value="18">
+                        <input type="hidden" name="to_age" id="to_age" value="60">
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="height_Age_box-set mb-3 mb-lg-4">
+                <div class="h5 black-color-L letter-spacing-1 text-uppercase mb-2">Select Height</div>
+                    <div class="age_height_ranged px-2">
+                        <input type="text" class="js-range-slider" name="my_range" value="" data-skin="round" data-type="double" data-min="4 ft" data-max="1000" data-grid="false">
+                        <input type="hidden" name="from_height" id="from_height" value="50">
+                        <input type="hidden" name="to_height" id="to_height" value="86">
+                    </div>
+                </div>
+            </div>
+                            <div class="col-lg-6 col-md-6">
+                    <div class="d-flex gap-3 align-items-center mb-3 mb-lg-4 mt-3 ps-lg-3 ps-md-3 ps-2">
+                        <div class="gander-textLable h6 black-color-L">Gender</div>
+                        <div class="right-gander-field w-100 d-flex align-items-center
+                            justify-content-between pe-lg-4 pe-md-5 pe-sm-5 pe-5">
+                            <div class="single_input_radio-L">
+                                <input type="radio" name="gender" id="malefe44" class="d-none" value="Male" checked="">
+                                <label for="malefe44" class="radio_filterinp fts-14 poppins-Regular
+                                    d-flex align-items-center gap-2 gap-lg-3 gray4-color-L">Male
+                                </label>
+                            </div>
+                            <div class="single_input_radio-L">
+                                <input type="radio" name="gender" id="malefe33" class="d-none" value="Female">
+                                <label for="malefe33" class="radio_filterinp fts-14 poppins-Regular
+                                    d-flex align-items-center gap-2 gap-lg-3 gray4-color-L">Female
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                        <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                    <label class="floating-label formultiples"></label>
+                    <select name="marital_status[]" id="marital_status4" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                        <option value="">Select Marital status</option>
+                        <option value="Unmarried">Unmarried</option><option value="Widow/Widower">Widow/Widower</option><option value="Divorcee">Divorcee</option><option value="Separated">Separated</option>                    </select>
+                </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                    <label class="floating-label ">Religion</label>
+                    <select name="religion" id="religion1" class="Single_searchDv floating-control" onchange="dropdownChange('religion1','caste4','caste_list')">
+                        <option value="">Select Religion</option>
+                        <option value="5">Hindu</option><option value="6">Muslim</option><option value="8">Christian</option><option value="9">Jain</option><option value="10">Parsi</option><option value="12">Buddhist</option><option value="18">test</option>                    </select>
+                </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                    <label class="floating-label formultiples"></label>
+                    <select name="caste" id="caste4" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                        <option value="">Select Caste</option>
+                    </select>
+                </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                    <label class="floating-label formultiples"></label>
+                    <select name="country_id" id="country_id4" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                        <option value="">Select Country</option>
+                        <option value="1">Andorra</option><option value="2">United Arab Emirates</option><option value="3">Afghanistan</option><option value="4">Antigua And Barbuda</option><option value="5">Albania</option><option value="6">Armenia</option><option value="7">Angola</option><option value="8">Antarctica</option><option value="9">Argentina</option><option value="10">American Samoa</option><option value="11">Austria</option><option value="12">Australia</option><option value="13">Aruba</option><option value="14">Aland Islands</option><option value="15">Azerbaijan</option><option value="16">Bosnia And Herzegovina</option><option value="17">Barbados</option><option value="18">Bangladesh</option><option value="19">Belgium</option><option value="20">Burkina Faso</option><option value="21">Bulgaria</option><option value="22">Bahrain</option><option value="23">Burundi</option><option value="24">Benin</option><option value="25">Bermuda</option><option value="26">Brunei</option><option value="27">Bolivia</option><option value="28">Bonaire, Saint Eustatius And Saba</option><option value="29">Brazil</option><option value="30">Bahamas</option><option value="31">Bhutan</option><option value="32">Bouvet Island</option><option value="33">Botswana</option><option value="34">Belarus</option><option value="35">Belize</option><option value="36">Canada</option><option value="37">Democratic Republic Of The Congo</option><option value="38">Central African Republic</option><option value="39">Republic Of The Congo</option><option value="40">Switzerland</option><option value="41">Ivory Coast</option><option value="42">Chile</option><option value="43">Cameroon</option><option value="44">China</option><option value="45">Colombia</option><option value="46">Costa Rica</option><option value="47">Cuba</option><option value="48">Cape Verde</option><option value="49">Cyprus</option><option value="50">Czech Republic</option><option value="51">Germany</option><option value="52">Djibouti</option><option value="53">Denmark</option><option value="54">Dominica</option><option value="55">Dominican Republic</option><option value="56">Algeria</option><option value="57">Ecuador</option><option value="58">Estonia</option><option value="59">Egypt</option><option value="60">Western Sahara</option><option value="61">Eritrea</option><option value="62">Spain</option><option value="63">Ethiopia</option><option value="64">Finland</option><option value="65">Fiji</option><option value="66">Micronesia</option><option value="67">Faroe Islands</option><option value="68">France</option><option value="69">Gabon</option><option value="70">United Kingdom</option><option value="71">Grenada</option><option value="72">Georgia</option><option value="73">French Guiana</option><option value="74">Guernsey</option><option value="75">Ghana</option><option value="76">Greenland</option><option value="77">Gambia</option><option value="78">Guinea</option><option value="79">Guadeloupe</option><option value="80">Equatorial Guinea</option><option value="81">Greece</option><option value="82">Guatemala</option><option value="83">Guam</option><option value="84">Guinea-Bissau</option><option value="85">Guyana</option><option value="86">Hong Kong</option><option value="87">Honduras</option><option value="88">Croatia</option><option value="89">Haiti</option><option value="90">Hungary</option><option value="91">Indonesia</option><option value="92">Ireland</option><option value="93">Israel</option><option value="94">Isle Of Man</option><option value="95">India</option><option value="96">British Indian Ocean Territory</option><option value="97">Iraq</option><option value="98">Iran</option><option value="99">Iceland</option><option value="100">Italy</option><option value="101">Jersey</option><option value="102">Jamaica</option><option value="103">Jordan</option><option value="104">Japan</option><option value="105">Kenya</option><option value="106">Kyrgyzstan</option><option value="107">Cambodia</option><option value="108">Kiribati</option><option value="109">Comoros</option><option value="110">Saint Kitts And Nevis</option><option value="111">North Korea</option><option value="112">South Korea</option><option value="113">Kuwait</option><option value="114">Kazakhstan</option><option value="115">Laos</option><option value="116">Lebanon</option><option value="117">Saint Lucia</option><option value="118">Liechtenstein</option><option value="119">Sri Lanka</option><option value="120">Liberia</option><option value="121">Lesotho</option><option value="122">Lithuania</option><option value="123">Luxembourg</option><option value="124">Latvia</option><option value="125">Libya</option><option value="126">Morocco</option><option value="127">Monaco</option><option value="128">Moldova</option><option value="129">Montenegro</option><option value="130">Madagascar</option><option value="131">Marshall Islands</option><option value="132">Macedonia</option><option value="133">Mali</option><option value="134">Myanmar</option><option value="135">Mongolia</option><option value="136">Macao</option><option value="137">Northern Mariana Islands</option><option value="138">Martinique</option><option value="139">Mauritania</option><option value="140">Montserrat</option><option value="141">Mauritius</option><option value="142">Maldives</option><option value="143">Malawi</option><option value="144">Mexico</option><option value="145">Malaysia</option><option value="146">Mozambique</option><option value="147">Namibia</option><option value="148">New Caledonia</option><option value="149">Niger</option><option value="150">Nigeria</option><option value="151">Nicaragua</option><option value="152">Netherlands</option><option value="153">Norway</option><option value="154">Nepal</option><option value="155">Nauru</option><option value="156">New Zealand</option><option value="157">Oman</option><option value="158">Panama</option><option value="159">Peru</option><option value="160">French Polynesia</option><option value="161">Papua New Guinea</option><option value="162">Philippines</option><option value="163">Pakistan</option><option value="164">Poland</option><option value="165">Saint Pierre And Miquelon</option><option value="166">Puerto Rico</option><option value="167">Palestinian Territory</option><option value="168">Portugal</option><option value="169">Palau</option><option value="170">Paraguay</option><option value="171">Qatar</option><option value="172">Reunion</option><option value="173">Romania</option><option value="174">Serbia</option><option value="175">Russia</option><option value="176">Rwanda</option><option value="177">Saudi Arabia</option><option value="178">Solomon Islands</option><option value="179">Seychelles</option><option value="180">Sudan</option><option value="181">Sweden</option><option value="182">Singapore</option><option value="183">Saint Helena</option><option value="184">Slovenia</option><option value="185">Svalbard And Jan Mayen</option><option value="186">Slovakia</option><option value="187">Sierra Leone</option><option value="188">San Marino</option><option value="189">Senegal</option><option value="190">Somalia</option><option value="191">Suriname</option><option value="192">South Sudan</option><option value="193">Sao Tome And Principe</option><option value="194">El Salvador</option><option value="195">Syria</option><option value="196">Swaziland</option><option value="197">Chad</option><option value="198">French Southern Territories</option><option value="199">Togo</option><option value="200">Thailand</option><option value="201">Tajikistan</option><option value="202">Tokelau</option><option value="203">East Timor</option><option value="204">Turkmenistan</option><option value="205">Tunisia</option><option value="206">Tonga</option><option value="207">Turkey</option><option value="208">Trinidad And Tobago</option><option value="209">Tuvalu</option><option value="210">Taiwan</option><option value="211">Tanzania</option><option value="212">Ukraine</option><option value="213">Uganda</option><option value="214">United States Minor Outlying Islands</option><option value="215">United States</option><option value="216">Uruguay</option><option value="217">Uzbekistan</option><option value="218">Saint Vincent And The Grenadines</option><option value="219">Venezuela</option><option value="220">U.S. Virgin Islands</option><option value="221">Vietnam</option><option value="222">Vanuatu</option><option value="223">Wallis And Futuna</option><option value="224">Samoa</option><option value="225">Kosovo</option><option value="226">Yemen</option><option value="227">Mayotte</option><option value="228">South Africa</option><option value="229">Zambia</option><option value="230">Zimbabwe</option><option value="239">New York</option><option value="241">Scotland</option>                    </select>
+                </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="commom-checkboxdiv-l w-auto">
+                <input type="checkbox" name="photo_search" id="photo_search1" class="d-none" value="Yes">
+                <label for="photo_search1" class="comman_chack d-flex align-items-center
+                    gap-2 gray4-color-L fts-14 poppins-Regular">With
+                    Photo</label>
+                </div>
+            </div>
+            <div class="col-12 mt-3 mt-md-4 mt-lg-5">
+                <div class="forms-next-back-btngroup d-flex align-items-center
+                justify-content-center justify-content-lg-end gap-3 gap-lg-4">
+                    <button type="submit" class="next-btn-forms primary-btn-hover" id="quickSearchBtn">Search</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+                    <div class="tab-pane fade " id="pills-advancesearch" role="tabpanel" aria-labelledby="pills-advancesearch-tab" tabindex="0">
+    <form name="advanceSearchForm" id="advanceSearchForm" action="https://www.gloriousmatrimonial.com/search/set-search" method="POST">
+    <input type="hidden" name="_token" value="0MZI0E6GTOyAvhPMNM9OyerX5xmL9UseiRqM4BGr">        <div class="row">
+            <div class="col-lg-6 col-md-6">
+                <div class="height_Age_box-set mb-3 mb-lg-4">
+                <div class="h5 black-color-L letter-spacing-1 text-uppercase mb-2">Select Age</div>
+                <div class="age_height_ranged px-2">
+                    <input type="text" class="js-range-slider-2" name="my_range" value="" data-skin="round" data-type="double" data-min="18" data-max="60" data-grid="false">
+                      <input type="hidden" name="from_age" id="from_age" class="advanceSearch_from_age" value="18">
+                    <input type="hidden" name="to_age" id="to_age" class="advanceSearch_to_age" value="60">
+                </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="height_Age_box-set mb-3 mb-lg-4">
+                <div class="h5 black-color-L letter-spacing-1 text-uppercase mb-2">Select Height</div>
+                <div class="age_height_ranged px-2">
+                    <input type="text" class="js-range-slider" name="my_range" value="" data-skin="round" data-type="double" data-min="4 ft" data-max="1000" data-grid="false">
+                    <input type="hidden" name="from_height" id="from_height" class="advanceSearch_from_height" value="50">
+                    <input type="hidden" name="to_height" id="to_height" class="advanceSearch_to_height" value="86">
+                </div>
+                </div>
+            </div>
+                            <div class="col-lg-6 col-md-6">
+                    <div class="d-flex gap-3 align-items-center mb-3 mb-lg-4 mt-3 ps-lg-3 ps-md-3 ps-2">
+                        <div class="gander-textLable h6 black-color-L">Gender</div>
+                        <div class="right-gander-field w-100 d-flex align-items-center
+                            justify-content-between pe-lg-4 pe-md-5 pe-sm-5 pe-5">
+                            <div class="single_input_radio-L">
+                                <input type="radio" name="gender" id="malefe445" class="d-none" value="Male" checked="">
+                                <label for="malefe445" class="radio_filterinp fts-14 poppins-Regular
+                                    d-flex align-items-center gap-2 gap-lg-3 gray4-color-L">Male
+                                </label>
+                            </div>
+                            <div class="single_input_radio-L">
+                                <input type="radio" name="gender" id="malefe337" class="d-none" value="Female">
+                                <label for="malefe337" class="radio_filterinp fts-14 poppins-Regular
+                                    d-flex align-items-center gap-2 gap-lg-3 gray4-color-L">Female
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                        <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                    <label class="floating-label formultiples"></label>
+                    <select name="marital_status[]" id="marital_statusAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                        <option value="">Select Marital status</option>
+                        <option value="Unmarried">Unmarried</option><option value="Widow/Widower">Widow/Widower</option><option value="Divorcee">Divorcee</option><option value="Separated">Separated</option>                    </select>
+                </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label">Religion</label>
+                        <select name="religion" id="religion2" class="Single_searchDv floating-control" onchange="dropdownChange('religion2','casteAS','caste_list')">
+                            <option value="">Select Religion</option>
+                            <option value="5">Hindu</option><option value="6">Muslim</option><option value="8">Christian</option><option value="9">Jain</option><option value="10">Parsi</option><option value="12">Buddhist</option><option value="18">test</option>                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="caste[]" id="casteAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                            <option value="">Select Caste</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="country_id[]" id="country_idAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple " onchange="dropdownChange('country_idAS','state_idAS','state_list')">
+                            <option value="">Select Country</option>
+                            <option value="1">Andorra</option><option value="2">United Arab Emirates</option><option value="3">Afghanistan</option><option value="4">Antigua And Barbuda</option><option value="5">Albania</option><option value="6">Armenia</option><option value="7">Angola</option><option value="8">Antarctica</option><option value="9">Argentina</option><option value="10">American Samoa</option><option value="11">Austria</option><option value="12">Australia</option><option value="13">Aruba</option><option value="14">Aland Islands</option><option value="15">Azerbaijan</option><option value="16">Bosnia And Herzegovina</option><option value="17">Barbados</option><option value="18">Bangladesh</option><option value="19">Belgium</option><option value="20">Burkina Faso</option><option value="21">Bulgaria</option><option value="22">Bahrain</option><option value="23">Burundi</option><option value="24">Benin</option><option value="25">Bermuda</option><option value="26">Brunei</option><option value="27">Bolivia</option><option value="28">Bonaire, Saint Eustatius And Saba</option><option value="29">Brazil</option><option value="30">Bahamas</option><option value="31">Bhutan</option><option value="32">Bouvet Island</option><option value="33">Botswana</option><option value="34">Belarus</option><option value="35">Belize</option><option value="36">Canada</option><option value="37">Democratic Republic Of The Congo</option><option value="38">Central African Republic</option><option value="39">Republic Of The Congo</option><option value="40">Switzerland</option><option value="41">Ivory Coast</option><option value="42">Chile</option><option value="43">Cameroon</option><option value="44">China</option><option value="45">Colombia</option><option value="46">Costa Rica</option><option value="47">Cuba</option><option value="48">Cape Verde</option><option value="49">Cyprus</option><option value="50">Czech Republic</option><option value="51">Germany</option><option value="52">Djibouti</option><option value="53">Denmark</option><option value="54">Dominica</option><option value="55">Dominican Republic</option><option value="56">Algeria</option><option value="57">Ecuador</option><option value="58">Estonia</option><option value="59">Egypt</option><option value="60">Western Sahara</option><option value="61">Eritrea</option><option value="62">Spain</option><option value="63">Ethiopia</option><option value="64">Finland</option><option value="65">Fiji</option><option value="66">Micronesia</option><option value="67">Faroe Islands</option><option value="68">France</option><option value="69">Gabon</option><option value="70">United Kingdom</option><option value="71">Grenada</option><option value="72">Georgia</option><option value="73">French Guiana</option><option value="74">Guernsey</option><option value="75">Ghana</option><option value="76">Greenland</option><option value="77">Gambia</option><option value="78">Guinea</option><option value="79">Guadeloupe</option><option value="80">Equatorial Guinea</option><option value="81">Greece</option><option value="82">Guatemala</option><option value="83">Guam</option><option value="84">Guinea-Bissau</option><option value="85">Guyana</option><option value="86">Hong Kong</option><option value="87">Honduras</option><option value="88">Croatia</option><option value="89">Haiti</option><option value="90">Hungary</option><option value="91">Indonesia</option><option value="92">Ireland</option><option value="93">Israel</option><option value="94">Isle Of Man</option><option value="95">India</option><option value="96">British Indian Ocean Territory</option><option value="97">Iraq</option><option value="98">Iran</option><option value="99">Iceland</option><option value="100">Italy</option><option value="101">Jersey</option><option value="102">Jamaica</option><option value="103">Jordan</option><option value="104">Japan</option><option value="105">Kenya</option><option value="106">Kyrgyzstan</option><option value="107">Cambodia</option><option value="108">Kiribati</option><option value="109">Comoros</option><option value="110">Saint Kitts And Nevis</option><option value="111">North Korea</option><option value="112">South Korea</option><option value="113">Kuwait</option><option value="114">Kazakhstan</option><option value="115">Laos</option><option value="116">Lebanon</option><option value="117">Saint Lucia</option><option value="118">Liechtenstein</option><option value="119">Sri Lanka</option><option value="120">Liberia</option><option value="121">Lesotho</option><option value="122">Lithuania</option><option value="123">Luxembourg</option><option value="124">Latvia</option><option value="125">Libya</option><option value="126">Morocco</option><option value="127">Monaco</option><option value="128">Moldova</option><option value="129">Montenegro</option><option value="130">Madagascar</option><option value="131">Marshall Islands</option><option value="132">Macedonia</option><option value="133">Mali</option><option value="134">Myanmar</option><option value="135">Mongolia</option><option value="136">Macao</option><option value="137">Northern Mariana Islands</option><option value="138">Martinique</option><option value="139">Mauritania</option><option value="140">Montserrat</option><option value="141">Mauritius</option><option value="142">Maldives</option><option value="143">Malawi</option><option value="144">Mexico</option><option value="145">Malaysia</option><option value="146">Mozambique</option><option value="147">Namibia</option><option value="148">New Caledonia</option><option value="149">Niger</option><option value="150">Nigeria</option><option value="151">Nicaragua</option><option value="152">Netherlands</option><option value="153">Norway</option><option value="154">Nepal</option><option value="155">Nauru</option><option value="156">New Zealand</option><option value="157">Oman</option><option value="158">Panama</option><option value="159">Peru</option><option value="160">French Polynesia</option><option value="161">Papua New Guinea</option><option value="162">Philippines</option><option value="163">Pakistan</option><option value="164">Poland</option><option value="165">Saint Pierre And Miquelon</option><option value="166">Puerto Rico</option><option value="167">Palestinian Territory</option><option value="168">Portugal</option><option value="169">Palau</option><option value="170">Paraguay</option><option value="171">Qatar</option><option value="172">Reunion</option><option value="173">Romania</option><option value="174">Serbia</option><option value="175">Russia</option><option value="176">Rwanda</option><option value="177">Saudi Arabia</option><option value="178">Solomon Islands</option><option value="179">Seychelles</option><option value="180">Sudan</option><option value="181">Sweden</option><option value="182">Singapore</option><option value="183">Saint Helena</option><option value="184">Slovenia</option><option value="185">Svalbard And Jan Mayen</option><option value="186">Slovakia</option><option value="187">Sierra Leone</option><option value="188">San Marino</option><option value="189">Senegal</option><option value="190">Somalia</option><option value="191">Suriname</option><option value="192">South Sudan</option><option value="193">Sao Tome And Principe</option><option value="194">El Salvador</option><option value="195">Syria</option><option value="196">Swaziland</option><option value="197">Chad</option><option value="198">French Southern Territories</option><option value="199">Togo</option><option value="200">Thailand</option><option value="201">Tajikistan</option><option value="202">Tokelau</option><option value="203">East Timor</option><option value="204">Turkmenistan</option><option value="205">Tunisia</option><option value="206">Tonga</option><option value="207">Turkey</option><option value="208">Trinidad And Tobago</option><option value="209">Tuvalu</option><option value="210">Taiwan</option><option value="211">Tanzania</option><option value="212">Ukraine</option><option value="213">Uganda</option><option value="214">United States Minor Outlying Islands</option><option value="215">United States</option><option value="216">Uruguay</option><option value="217">Uzbekistan</option><option value="218">Saint Vincent And The Grenadines</option><option value="219">Venezuela</option><option value="220">U.S. Virgin Islands</option><option value="221">Vietnam</option><option value="222">Vanuatu</option><option value="223">Wallis And Futuna</option><option value="224">Samoa</option><option value="225">Kosovo</option><option value="226">Yemen</option><option value="227">Mayotte</option><option value="228">South Africa</option><option value="229">Zambia</option><option value="230">Zimbabwe</option><option value="239">New York</option><option value="241">Scotland</option>                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="state_id[]" id="state_idAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple">
+                            <option value="">Select Country First </option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="education_level[]" id="education_levelAs" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                            <option value="">Select Education</option>
+                            <option value="1">Bachelor's</option><option value="2">Master's</option><option value="3">PHD</option><option value="4">Post Doc</option><option value="5">Other</option>                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="occupation[]" id="occupationAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                            <option value="">Select Occupation</option>
+                            <option value="1">Agriculture</option><option value="2">Arts/Creative</option><option value="3">Automotive</option><option value="4">Business/Entrepreneurship</option><option value="5">Construction</option><option value="6">Consulting</option><option value="7">Education/Teaching</option><option value="8">Energy/Utilities</option><option value="9">Engineering</option><option value="10">Environmental Services</option><option value="11">Finance/Banking</option><option value="12">Food Services/Hospitality</option><option value="13">Government/Public Service</option><option value="14">Healthcare/Medical</option><option value="15">Travel/Tourism</option><option value="16">Human Resources</option><option value="17">Information Technology (IT)</option><option value="18">Legal/Law</option><option value="19">Manufacturing</option><option value="20">Marketing/Advertising</option><option value="21">Media/Entertainment</option><option value="22">Pharmaceuticals</option><option value="23">Real Estate/Property</option><option value="24">Research/Science</option><option value="25">Retail</option><option value="26">Sales</option><option value="27">Seva/Non-Profit/NGO</option><option value="28">Sports/Fitness</option><option value="29">Telecommunications</option><option value="30">Transportation/Logistics</option><option value="31">Others</option><option value="32">Interior Designer</option><option value="33">Fashion Designer</option><option value="34">Management/Administration</option>                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="employee_in[]" id="employee_inAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                            <option value="">Select Employee In</option>
+                            <option value="2">Development</option>                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="income[]" id="incomeAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                            <option value="">Select Annual Income </option>
+                            <option value="1">Upto INR 1,00,000</option><option value="2">INR 1,00,000 to 2,00,000</option><option value="3">INR 2,00,000 to 4,00,000</option><option value="4">INR 4,00,000 to 7,00,000</option><option value="5">INR 7,00,000 to 10,00,000</option><option value="6">INR 10,00,000 to 15,00,000</option><option value="7">INR 15,00,000 to 20,00,000</option><option value="8">INR 20,00,000 to 30,00,000</option><option value="9">INR 30,00,000 to 50,00,000</option><option value="10">INR 50,00,000 to 75,00,000</option><option value="11">INR 75,00,000 to 1,00,00,000</option><option value="12">INR 1,00,00,000 to 3,00,00,000</option><option value="13">INR 3,00,00,000 and above</option><option value="14">Not applicable</option><option value="15">Don’t want to Specify</option>                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="mother_tongue[]" id="mother_tongueAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                            <option value="">Select Mother Tongue </option>
+                            <option value="12">Sindhi</option><option value="19">Awadhi</option><option value="21">Bhutia</option><option value="27">Garo</option><option value="29">Kakbarak</option><option value="30">Kanauji</option><option value="32">Khandesi</option><option value="33">Khasi</option><option value="34">Koshali</option><option value="35">Kumoani</option><option value="37">Lepcha</option><option value="38">Magahi</option><option value="41">Miji</option><option value="42">Mizo</option><option value="43">Monpa</option><option value="45">Persian</option><option value="48">Sanskrit</option><option value="49">Santhali</option><option value="51">Swedish</option><option value="52">Tagalog</option><option value="65">Aka</option><option value="66">Arabic</option><option value="67">Assamese</option><option value="68">Bengali</option><option value="69">Bhojpuri</option><option value="70">Chattisgarhi</option><option value="71">Chinese</option><option value="72">Coorgi</option><option value="73">Dogri</option><option value="74">English</option><option value="75">French</option><option value="76">Garhwali</option><option value="77">Gujarati</option><option value="78">Haryanavi</option><option value="79">Himachali/Pahari</option><option value="80">Hindi</option><option value="81">Kannada</option><option value="82">Kashmiri</option><option value="83">Konkani</option><option value="84">Kutchi</option><option value="85">Maithili</option><option value="86">Malay</option><option value="87">Malayalam</option><option value="88">Manipuri</option><option value="89">Marathi</option><option value="90">Marwari</option><option value="91">Nepali</option><option value="92">Oriya</option><option value="93">Other</option><option value="94">Punjabi</option><option value="95">Rajasthani</option><option value="96">Russian</option><option value="98">Sourashtra</option><option value="99">Spanish</option><option value="100">Tamil</option><option value="101">Telugu</option><option value="102">Tulu</option><option value="103">Urdu</option>                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6 col-12">
+                <div class="custom-select2-div mb-3 mb-lg-4">
+                    <div class="edit_inputMain-sltr select2Part floating-group w-100 position-relative">
+                        <label class="floating-label formultiples"></label>
+                        <select name="manglik[]" id="manglikAS" multiple="multiple" class="Single_searchDv floating-control js-example-basic-multiple ">
+                            <option value="">Select Manglik </option>
+                            <option value="No">No</option><option value="Yes">Yes</option><option value="Maybe">Maybe</option><option value="Anshik">Anshik</option>                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="col-12">
+                <div class="commom-checkboxdiv-l w-auto">
+                <input type="checkbox" name="photo_search" id="photo_search" class="d-none" value="Yes">
+                <label for="photo_search" class="comman_chack d-flex align-items-center
+                    gap-2 gray4-color-L fts-14 poppins-Regular">With
+                    Photo</label>
+                </div>
+            </div>
+            <div class="col-12 mt-3 mt-md-4 mt-lg-5">
+                <div class="forms-next-back-btngroup d-flex align-items-center
+                justify-content-center justify-content-lg-end gap-3 gap-lg-4">
+                    <button type="submit" id="advanceSearchBtn" class="next-btn-forms primary-btn-hover">Search</button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+                    <div class="tab-pane fade show active" id="pills-idsearch" role="tabpanel" aria-labelledby="pills-idsearch-tab" tabindex="0">
+    <form name="quickSearchForm" id="quickSearchForm" action="https://www.gloriousmatrimonial.com/search/set-search" method="POST">
+    <input type="hidden" name="_token" value="0MZI0E6GTOyAvhPMNM9OyerX5xmL9UseiRqM4BGr">        <div class="row pt-3 pt-lg-4">
+            <div class="id-searching-heading">
+                <div class="fts-18 Poppins-SemiBold black-color-L text-uppercase">Id Search</div>
+                <div class="p2 gray4-color-L">Find profiles faster with id search. e.g : LI10</div>
+            </div>
+            <div class="col-lg-8 mt-lg-4 mt-3">
+                <div class="d-flex gap-3">
+                    <div class="comman_inputfield_main position-relative mb-3 mb-lg-4 w-100">
+                        <input type="text" name="martiId" id="martiId" required="" placeholder="" class="input_comman_field">
+                        <label for="floatingInput">Matri Id Search</label>
+                    </div>
+                    <button type="submit" class="idsearching-btnsdview primary-btn-hover" id="idSearchBtn">
+                        Search
+                    </button>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 mt-4 mt-lg-0">
+            <div class="searching_rightsidebar gray1-bgcolor-L rounded-4 p-2">
+      <div class="recent_membersmains white-bgcolor-L box-shadow-r-l rounded-4 py-4 px-3">
+      <div class="fts-18 Poppins-SemiBold black-color-L mt-1">Recently Join Members</div>
+      <div class="allmeber-storys">
+                            <div class="single-membr-divs d-flex align-items-center justify-content-between mt-3 mt-lg-4">
+            <div class="d-flex align-items-center gap-3">
+                              <div class="membr-img-fdfa">
+                  <img src="public/assets/defaultImages/male.png" alt="" class="rstmmb">
+                </div>
+                            <div class="membr_sidetext-O">
+                <div class="fts-16 Poppins-Medium black-color-L">NI1243</div>
+                <div class="small gray4-color-L mt-1">29 Years, Abohar, Punjab, India</div>
+              </div>
+            </div>
+            <a href="login.html" class="show_recent-mdata">
+              <img src="public/web/assets/img/icons/eye-recent-icon.svg" alt="">
+            </a>
+          </div>
+                            <div class="single-membr-divs d-flex align-items-center justify-content-between mt-3 mt-lg-4">
+            <div class="d-flex align-items-center gap-3">
+                              <div class="membr-img-fdfa">
+                  <img src="public/assets/defaultImages/female.png" alt="" class="rstmmb">
+                </div>
+                            <div class="membr_sidetext-O">
+                <div class="fts-16 Poppins-Medium black-color-L">NI1241</div>
+                <div class="small gray4-color-L mt-1">0 Years</div>
+              </div>
+            </div>
+            <a href="login.html" class="show_recent-mdata">
+              <img src="public/web/assets/img/icons/eye-recent-icon.svg" alt="">
+            </a>
+          </div>
+                            <div class="single-membr-divs d-flex align-items-center justify-content-between mt-3 mt-lg-4">
+            <div class="d-flex align-items-center gap-3">
+                              <div class="membr-img-fdfa">
+                  <img src="public/assets/defaultImages/male.png" alt="" class="rstmmb">
+                </div>
+                            <div class="membr_sidetext-O">
+                <div class="fts-16 Poppins-Medium black-color-L">NI1239</div>
+                <div class="small gray4-color-L mt-1">18 Years, Parroquia d&#039;Andorra la Vella, Andorra</div>
+              </div>
+            </div>
+            <a href="login.html" class="show_recent-mdata">
+              <img src="public/web/assets/img/icons/eye-recent-icon.svg" alt="">
+            </a>
+          </div>
+                            <div class="single-membr-divs d-flex align-items-center justify-content-between mt-3 mt-lg-4">
+            <div class="d-flex align-items-center gap-3">
+                              <div class="membr-img-fdfa">
+                  <img src="public/assets/defaultImages/male.png" alt="" class="rstmmb">
+                </div>
+                            <div class="membr_sidetext-O">
+                <div class="fts-16 Poppins-Medium black-color-L">NI1238</div>
+                <div class="small gray4-color-L mt-1">22 Years</div>
+              </div>
+            </div>
+            <a href="login.html" class="show_recent-mdata">
+              <img src="public/web/assets/img/icons/eye-recent-icon.svg" alt="">
+            </a>
+          </div>
+                            <div class="single-membr-divs d-flex align-items-center justify-content-between mt-3 mt-lg-4">
+            <div class="d-flex align-items-center gap-3">
+                              <div class="membr-img-fdfa">
+                  <img src="public/assets/defaultImages/male.png" alt="" class="rstmmb">
+                </div>
+                            <div class="membr_sidetext-O">
+                <div class="fts-16 Poppins-Medium black-color-L">NI1237</div>
+                <div class="small gray4-color-L mt-1">18 Years, Chennai, Tamil Nadu, India</div>
+              </div>
+            </div>
+            <a href="login.html" class="show_recent-mdata">
+              <img src="public/web/assets/img/icons/eye-recent-icon.svg" alt="">
+            </a>
+          </div>
+              </div>
+    </div>
+        <div class="profile_daymain white-bgcolor-L box-shadow-r-l rounded-4 py-4 px-3 mt-3">
+      <div class="fts-18 Poppins-SemiBold black-color-L mt-1">Profiles of the Day</div>
+      <div class="slidersng-profile position-relative pink-bgcolor-L pt-5 rounded-3 blue-color-L mt-3">
+                            <div class="items text-center mb-4">
+                          <a href="login.html">
+                <img src="public/assets/photos/3212171716283578.png" alt="" class="prf-dayimg">
+              </a>
+                        <div class="h4 white-color-L mt-3">NI1209</div>
+            <div class="p2 white-color-L mt-1 mb-2">24 Years, Parroquia d&#039;Encamp, Andorra 1</div>
+          </div>
+                            <div class="items text-center mb-4">
+                          <a href="login.html">
+                <img src="public/assets/photos/8616101707818831.jpg" alt="" class="prf-dayimg">
+              </a>
+                        <div class="h4 white-color-L mt-3">GLMATRI1127</div>
+            <div class="p2 white-color-L mt-1 mb-2">18 Years, Batwa, Gujarat, India 1</div>
+          </div>
+                            <div class="items text-center mb-4">
+                        <a href="login.html">
+                <div class="simmiler_protectiondiv featured cursor-pointer">
+                  <img src="public/assets/photos/8787441707139089.png" alt="" class="prf-dayimg photo-protected-profile">
+                </div>
+              </a>
+                        <div class="h4 white-color-L mt-3">GLMATRI1105</div>
+            <div class="p2 white-color-L mt-1 mb-2">29 Years, Barada, Gujarat, India 0</div>
+          </div>
+                            <div class="items text-center mb-4">
+                          <a href="login.html">
+                <img src="public/assets/photos/5546491707308190.jpg" alt="" class="prf-dayimg">
+              </a>
+                        <div class="h4 white-color-L mt-3">GLMATRI10</div>
+            <div class="p2 white-color-L mt-1 mb-2">31 Years, Adalaj, Gujarat, India 1</div>
+          </div>
+                            <div class="items text-center mb-4">
+                          <a href="login.html">
+                <img src="public/assets/photos/5566111707140208.png" alt="" class="prf-dayimg">
+              </a>
+                        <div class="h4 white-color-L mt-3">GLMATRI9</div>
+            <div class="p2 white-color-L mt-1 mb-2">29 Years, Adalaj, Gujarat, India 1</div>
+          </div>
+              </div>
+    </div>
+  </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<!-- Photo Request Popup -->
+<input type="hidden" name="memberActionId" id="memberActionId" value="">
+<div class="customsmallmodel_light couponsize z-index modal fade" id="photoRequest" tabindex="-1" aria-labelledby="photoRequestLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header mx-3 mx-lg-4 pt-3">
+        <h1 class="fts-18 Poppins-SemiBold black-color-L" id="photoRequestLabel">Send Photo <span class="pink-color-L">Request</span></h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal_liteBody px-3 px-lg-4 py-3">
+        <div class="alert alert-error-msg alert-dismissible fade show errorMsgPR d-none" role="alert" id="errorMsgPR">
+          <span class="msg-set" id="responseErrMsgPR"></span>
+        </div>
+        <div class="alert alert-success-msg alert-dismissible fade show successMsgPR d-none" role="alert" id="successMsgPR">
+          <span class="msg-set" id="responseSucMsgPR"></span>
+        </div>
+        <div class="mt-3 fts-16 poppins-Regular black-color-L">
+          I am interested in your profile. I would like to view photo now, accept photo request
+        </div>
+        <div class="modal-buttonsGroup d-flex justify-content-end gap-2 px-3 px-lg-4 pb-4 mt-4">
+          <button type="button" class="click-changeButton
+          sendPhotoRequest" data-id="">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Photo Request Popup -->
+
+<!-- Login Popup Start-->
+<div class="customsmallmodel_light couponsize modal fade" id="LoginRequired" tabindex="-1" aria-labelledby="LoginRequiredLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered w-50">
+    <div class="modal-content">
+      <div class="modal-header mx-3 mx-lg-4 pt-3">
+        <h1 class="fts-18 Poppins-SemiBold black-color-L" id="LoginRequiredLabel">Login</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal_liteBody px-3 px-lg-4 py-3">
+        <div class="modal_liteBody pt-lg-4 px-2 pt-4">
+          <div class="d-block d-lg-flex d-md-flex gap-3">
+            <div class="d-flex gap-2 gap-lg-3 gap-md-3 w-100">
+              <div class="comman_inputfield_main position-relative w-100">
+                <div class="alert alert-error-msg alert-dismissible fade show errorMsgRS" role="alert" id="errorMsgRS">
+                  <span class="msg-set" id="responseErrMsgRS">Please Login First</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Login Popup End-->
+
+<!-- Crop Photo Popup Start  -->
+<div class="modal fade" id="modal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg p-4 p-md-0" role="document">
+      <div class="modal-content">
+          <div class="modal-header p-0 border-0 position-relative">
+              <button type="button" class="close ctmcropclose" data-bs-dismiss="modal" aria-label="Close">
+                  <i class="fal fa-times"></i>
+              </button>
+          </div>
+          <div class="modal-body">
+              <div class="img-container">
+                  <div class="row">
+                      <div class="col-md-8 ps-lg-5">
+                        <div class="cropping_imagmain">
+                          <img id="image" src="https://www.gloriousmatrimonial.com/public//web/assets/images/placeholder.png" alt="">
+                        </div>
+                      </div>
+                      <div class="col-md-4 mt-4 mt-lg-0 mt-md-0">
+                          <div class="ctms-prevuisfa">
+                              <div class="preview"></div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+          <div class="modal-footer">
+              
+              
+              <button type="button" class="btn primary-bgcolor-L white-color-L px-5" id="crop">Crop</button>
+          </div>
+      </div>
+  </div>
+</div>
+<!-- Crop Photo Popup End  -->
+
+  <!-- footer section start  -->
+  <footer class="pt-lg-5 pt-4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8">
+          <div class="row">
+            <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+              <div class="footer_linking-mng">
+                <div class="h4 black-color-L">Help & Support</div>
+                <ul class="footerlist mt-2 mt-lg-3">
+                  <li><a href="contact.html" class="p2 gray4-color-L">Contact Us</a></li>
+                  <li><a href="faq.html" class="p2 gray4-color-L">FAQs</a></li>
+                  <li><a href="help.html" class="p2 gray4-color-L">Help</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 col-6">
+              <div class="footer_linking-mng">
+                <div class="h4 black-color-L">Information</div>
+                <ul class="footerlist mt-2 mt-lg-3">
+                  <li><a href="about-us.html" class="p2 gray4-color-L">About us</a></li>
+                                                        <li><a href="cms/sdfgs.html" class="p2 gray4-color-L">ShubhKaryaJodi</a></li>
+                                      <li><a href="cms/Terms-and-Condition.html" class="p2 gray4-color-L">Terms and Condition</a></li>
+                                      <li><a href="cms/Report-Misuse.html" class="p2 gray4-color-L">Report Misuse</a></li>
+                                      <li><a href="cms/privacy-policy.html" class="p2 gray4-color-L">Privacy Policy</a></li>
+                                  </ul>
+              </div>
+            </div>
+            <div class="col-lg-4 col-md-4 col-sm-4 mt-4 mt-lg-0 mt-md-0 mt-sm-0">
+              <div class="footer_linking-mng">
+                <div class="h4 black-color-L">Others</div>
+                <ul class="footerlist mt-2 mt-lg-3">
+                                      <li><a href="register.html" class="p2 gray4-color-L">Register</a></li>
+                    <li><a href="login.html" class="p2 gray4-color-L">Login</a></li>
+                                    <li><a href="blog.html" class="p2 gray4-color-L">Blog</a></li>
+                  <li><a href="success-story.html" class="p2 gray4-color-L">Success Stories</a></li>
+                  <li><a href="membership-plan.html" class="p2 gray4-color-L">Membership Plan</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-lg-4 mt-4 mt-lg-0">
+          <div class="footer-right-part">
+            <div class="h5 dark-label-color-L letter-spacing-1">Let’s Talk</div>
+            <div class="h3 Oxford-Blue-color-L mt-1">Let’s Talk
+              <img src="public/web/assets/img/icons/footer-right-arrow.svg" alt="">
+            </div>
+            <div class="alert alert-error-msg alert-dismissible fade show errorMsgSus d-none" role="alert" id="errorMsgSus">
+                <span class="msg-set" id="responseErrMsgSus"></span>
+            </div>
+            <div class="alert alert-success-msg alert-dismissible fade show successMsgSus d-none" role="alert" id="successMsgSus">
+              <span class="msg-set" id="responseSucMsgSus"></span>
+            </div>
+            <form action="https://www.gloriousmatrimonial.com/subscribed" name="subscribeForm" id="subscribeForm" class="mt-lg-4 mt-3" method="POST">
+              <input type="hidden" name="_token" value="0MZI0E6GTOyAvhPMNM9OyerX5xmL9UseiRqM4BGr">              <div class="comman_inputfield_main position-relative">
+                <input type="email" name="email" required="" id="email" placeholder="Enter your email" class="input_comman_field ps-5">
+                <img src="public/web/assets/img/icons/footer-mail-icon.svg" alt="" class="email-iconset">
+                <button type="button" class="send-now-btn primary-btn-hover submitSubscribeForm">
+                  Send Now!
+                </button>
+              </div>
+            </form>
+            <div class="email-phons mt-lg-4 mt-4">
+              <a href="" class="gray4-color-L h6">
+                +91-00 XXXX 000
+              </a>
+              <div class="sntr"></div>
+              <a href="" class="gray4-color-L h6">
+                info@xyz.com
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="copy-right-footers gray2-bgcolor-L py-2 mt-lg-5 mt-4">
+      <div class="container py-1">
+        <div class="d-lg-flex d-md-flex text-center align-items-center justify-content-between">
+          <div class="d-flex justify-content-center align-items-center gap-2 dark-label-color-L p2 align-items-center">
+            
+                          <a target="_blank" href="https://www.facebook.com/" class="dark-label-color-L p2" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="Facebook" rel="noopener">Facebook</a>
+                                      /<a target="_blank" href="https://twitter.com/" class="dark-label-color-L p2" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="Twitter" rel="noopener">Twitter</a>
+                                      /<a target="_blank" href="https://www.instagram.com/" class="dark-label-color-L p2" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="Instagram" rel="noopener">Instagram</a>
+                                      /<a target="_blank" href="https://in.linkedin.com/" class="dark-label-color-L p2" data-bs-toggle="tooltip" data-bs-placement="top" data-bs-custom-class="custom-tooltip" data-bs-title="Linked In" rel="noopener">LinkedIn</a>
+                      </div>
+          <div class="p2 dark-label-color-L mt-1 mt-lg-0">© Copyright 2023</div>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="d-none">
+  
+  </div>
+  <!-- progress bar bottom to top  -->
+  <div class="progress-wrap">
+    <svg class="progress-circle svg-content" width="100%" height="100%" viewbox="-1 -1 102 102">
+      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"></path>
+    </svg>
+  </div>
+
+  <!-- Base Url -->
+  <input type="hidden" id="base_url" name="base_url" value="https://www.gloriousmatrimonial.com">
+  <input type="hidden" id="baseUrlImage" name="baseUrlImage" value="https://www.gloriousmatrimonial.com/public/">
+  <!-- all js file include  -->
+  <script src="public/web/assets/js/jQuery.js"></script>
+  <script src="public/web/assets/js/bootstrap.bundle.js"></script>
+  <script src="public/web/assets/js/select-2.js"></script>
+  <script src="public/web/assets/js/wow.js"></script>
+  <script src="public/web/assets/js/slick.js"></script>
+  <script src="public/web/assets/js/slick.min.js"></script>
+  <script src="public/web/assets/js/rangeSlider.js"></script>
+  <script src="public/web/assets/js/main.js"></script>
+  <script src="public/web/custom/js/common.js"></script>
+  <script src="public/web/custom/js/jquery.validate.min.js"></script>
+  <script src="ajax/libs/canvas-confetti/1.6.0/confetti.js"></script>
+            <script src="public/web/custom/js/search/searchResult.js"></script>
+          </body>
+</html>

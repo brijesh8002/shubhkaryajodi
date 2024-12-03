@@ -1,0 +1,896 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/canvas-confetti/1.6.0/confetti.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\ajax\libs\canvas-confetti\1.6.0\confetti.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLFj_V1s.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiByp8kv8JHgFVrLFj_V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v21/pxiGyp8kv8JHgFVrLPTedw.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\s\poppins\v21\pxiGyp8kv8JHgFVrLPTedw.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\index.htm
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/about-us
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\about-us.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/advanced-search
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\advanced-search.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/Mg==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\Mg==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/MTA=
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\MTA=.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/MTE=
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\MTE=.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/Mw==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\Mw==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/NA==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\NA==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/Ng==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\Ng==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/NQ==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\NQ==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/Nw==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\Nw==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/OA==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\OA==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog-details/OQ==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-details\OQ==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog?Blog=1
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-1.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/blog?Blog=2
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\blog-2.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/cms/privacy-policy
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\cms\privacy-policy.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/cms/Report-Misuse
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\cms\Report-Misuse.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/cms/sdfgs
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\cms\sdfgs.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/cms/Terms-and-Condition
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\cms\Terms-and-Condition.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/contact
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\contact.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/faq
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\faq.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/help
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\help.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/home/1
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\home\1.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/home/2
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\home\2.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/home/3
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\home\3.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/home/index.html
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\home\index.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/id-search
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\id-search.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/login
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\login.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/membership-plan
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\membership-plan.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/otp-login
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\otp-login.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/banner/5697231715059186.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\banner\5697231715059186.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/banner/6891601715573636.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\banner\6891601715573636.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/banner/img-three.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\banner\img-three.jpg
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/banner/img-two.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\banner\img-two.jpg
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/location.jpeg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\location.jpeg
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/1215411707139548.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\1215411707139548.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/1732711707139552.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\1732711707139552.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/1787321707139420.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\1787321707139420.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/3043241707139540.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\3043241707139540.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/6479071707139403.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\6479071707139403.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/7365931707139535.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\7365931707139535.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/7808561707139560.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\7808561707139560.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/8386601707139530.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\8386601707139530.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/blog_image/9077541715574049.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\blog_image\9077541715574049.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/defaultImages/female.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\defaultImages\female.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/defaultImages/male.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\defaultImages\male.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/logo/5434431715603356.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\logo\5434431715603356.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/logo/main-logo.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\logo\main-logo.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/logo/icon.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\logo\icon.png
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/logo/main-logo.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\logo\main-logo.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/logo/main-logo.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\logo\main-logo.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/other_images/0869561715575446.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\other_images\0869561715575446.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/other_images/6366591706849348.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\other_images\6366591706849348.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/other_images/9725641715576697.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\other_images\9725641715576697.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/payment_logo/8541201702035495.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\payment_logo\8541201702035495.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/payment_logo/9122701702035495.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\payment_logo\9122701702035495.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/0451621713803325.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\0451621713803325.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/2224831715059782.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\2224831715059782.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/3212171716283578.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\3212171716283578.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/5546491707308190.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\5546491707308190.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/5566111707140208.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\5566111707140208.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/5676561714374683.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\5676561714374683.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/6130791715060074.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\6130791715060074.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/6159721727261812.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\6159721727261812.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/8616101707818831.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\8616101707818831.jpg
+Content Type: image/jpeg
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/photos/8787441707139089.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\photos\8787441707139089.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/success_story/only-two.jpeg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\success_story\only-two.jpeg
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/success_story/4899721706797624.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\success_story\4899721706797624.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/success_story/only-three.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\success_story\only-three.jpg
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/assets/success_story/only-one.jpg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\assets\success_story\only-one.jpg
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/css/common.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\css\common.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/css/main.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\css\main.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/css/rangeSlider.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\css\rangeSlider.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/css/select-2.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\css\select-2.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/css/slick.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\css\slick.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/icons/boxicons.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\icons\boxicons.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/icons/boxicons/boxicons.eot
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\icons\boxicons\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/icons/boxicons/boxicons.svg?
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\icons\boxicons\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/icons/boxicons/boxicons.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\icons\boxicons\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/icons/boxicons/boxicons.woff2
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\icons\boxicons\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/Poppins-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\Poppins-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/Poppins-ExtraBold.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\Poppins-ExtraBold.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/Poppins-ExtraLight.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\Poppins-ExtraLight.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/Poppins-Light.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\Poppins-Light.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/Poppins-Medium.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\Poppins-Medium.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/Poppins-Regular.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\Poppins-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/Poppins-SemiBold.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\Poppins-SemiBold.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/fonts/Poppins-Thin.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\fonts\Poppins-Thin.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/css/boxicons.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\css\boxicons.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/css/home-1.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\css\home-1.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/fonts/boxicons/boxicons.eot
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\fonts\boxicons\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/fonts/boxicons/boxicons.svg?
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\fonts\boxicons\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/fonts/boxicons/boxicons.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\fonts\boxicons\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/fonts/boxicons/boxicons.woff
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\fonts\boxicons\boxicons.woff
+Content Type: font/woff
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/fonts/boxicons/boxicons.woff2
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\fonts\boxicons\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/fonts/PoorRichardOpti.otf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\fonts\PoorRichardOpti.otf
+Content Type: font/otf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/arrowheader-rounded.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\arrowheader-rounded.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/arrowheader-text.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\arrowheader-text.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/arrowTop-progres.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\arrowTop-progres.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/Group 1049.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\Group 1049.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/nav-bottomArrow.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\nav-bottomArrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/Next-Icon-profile.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\Next-Icon-profile.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/Prev-Icon-profile.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\Prev-Icon-profile.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/rounded-borderht.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\rounded-borderht.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/shape-design.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\shape-design.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/story-arrow.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\story-arrow.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/images/work1.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\images\work1.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home1/js/home-1.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home1\js\home-1.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/css/boxicons.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\css\boxicons.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/css/home-2.css
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\css\home-2.css
+Content Type: text/css
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/fonts/boxicons/boxicons.eot
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\fonts\boxicons\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/fonts/boxicons/boxicons.svg?
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\fonts\boxicons\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/fonts/boxicons/boxicons.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\fonts\boxicons\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/fonts/boxicons/boxicons.woff
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\fonts\boxicons\boxicons.woff
+Content Type: font/woff
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/fonts/boxicons/boxicons.woff2
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\fonts\boxicons\boxicons.woff2
+Content Type: font/woff2
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/fonts/Syncopate-Bold.ttf
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\fonts\Syncopate-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/images/arrowTop-progres.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\images\arrowTop-progres.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/images/body-tranparent.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\images\body-tranparent.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/images/Group 1049.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\images\Group 1049.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/images/Next-Icon-profile.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\images\Next-Icon-profile.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/images/Prev-Icon-profile.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\images\Prev-Icon-profile.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/images/shape-design.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\images\shape-design.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/images/shape-design1.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\images\shape-design1.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/images/story-arrow.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\images\story-arrow.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/home2/js/home-2.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\home2\js\home-2.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/badge-lockblur.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\badge-lockblur.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/bg-effectapp-right.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\bg-effectapp-right.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/Bg-shape-loginregist.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\Bg-shape-loginregist.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/Bg_shape_1.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\Bg_shape_1.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/Bg_shape_2.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\Bg_shape_2.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/Bg_shape_about.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\Bg_shape_about.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/birthday-bgimg.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\birthday-bgimg.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/affordable-prices-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\affordable-prices-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/arrow-left-plans.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\arrow-left-plans.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/arrow-right-pagination.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\arrow-right-pagination.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/arrow-right-plans.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\arrow-right-plans.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/arrowTop-progres.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\arrowTop-progres.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/basic-plan-icon.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\basic-plan-icon.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/browse-profile-icon.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\browse-profile-icon.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/calendar-date-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\calendar-date-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/check-checkboxicon.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\check-checkboxicon.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/check-circle-match.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\check-circle-match.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/chevron-right-breacrumb.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\chevron-right-breacrumb.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/clock-time-dropdown.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\clock-time-dropdown.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/contactus-mail.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\contactus-mail.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/contactus-map-pin.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\contactus-map-pin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/contactus-phone.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\contactus-phone.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/creat-account-icon.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\creat-account-icon.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/error-input-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\error-input-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/eye-off-password.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\eye-off-password.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/eye-on-password.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\eye-on-password.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/eye-recent-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\eye-recent-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/filter-collapse-arrow.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\filter-collapse-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/footer-mail-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\footer-mail-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/footer-right-arrow.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\footer-right-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/home-breadcrumb.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\home-breadcrumb.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/input-success-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\input-success-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/interact-icon.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\interact-icon.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/nav-bottomArrow.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\nav-bottomArrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/Next-Icon-header.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\Next-Icon-header.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/Next-Icon-profile.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\Next-Icon-profile.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/Next-Icon-profile11.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\Next-Icon-profile11.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/Prev-Icon-header.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\Prev-Icon-header.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/Prev-Icon-profile.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\Prev-Icon-profile.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/privacy-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\privacy-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/relevant-match-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\relevant-match-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/search-partner-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\search-partner-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/search-sidetoparrow.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\search-sidetoparrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/select-bottom-arrow.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\select-bottom-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/shield-icons.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\shield-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/silver-plan-icon.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\silver-plan-icon.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/trusted-icon-1.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\trusted-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/trusted-icon-2.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\trusted-icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/verify-profile-icon.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\verify-profile-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/why-icon1.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\why-icon1.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/why-icon2.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\why-icon2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/icons/why-icon3.svg
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\icons\why-icon3.svg
+Content Type: image/svg+xml
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/left-img-how.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\left-img-how.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/login-arrow-shape.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\login-arrow-shape.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/login-profile.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\login-profile.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/login-right-mockup.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\login-right-mockup.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/OTP-security-img.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\OTP-security-img.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/img/right-img-how.png
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\img\right-img-how.png
+Content Type: image/png
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/js/bootstrap.bundle.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\js\bootstrap.bundle.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/js/jQuery.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\js\jQuery.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/js/main.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\js\main.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/js/rangeSlider.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\js\rangeSlider.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/js/select-2.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\js\select-2.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/js/slick.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\js\slick.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/js/slick.min.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\js\slick.min.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/assets/js/wow.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\assets\js\wow.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/blog/blog.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\blog\blog.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/common.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\common.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/contact/contactUs.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\contact\contactUs.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/contact/jquery.gmaps.min.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\contact\jquery.gmaps.min.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/feedback/feedback.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\feedback\feedback.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/jquery.validate.min.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\jquery.validate.min.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/login/login.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\login\login.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/membershipPlan/index.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\membershipPlan\index.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/register/register.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\register\register.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/search/searchResult.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\search\searchResult.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/public/web/custom/js/successStory/successStory.js
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\public\web\custom\js\successStory\successStory.js
+Content Type: text/javascript
+
+Uri: https://www.gloriousmatrimonial.com/quick-search
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\quick-search.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/register
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\register.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/success-story
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\success-story.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/success-story-details/Mg==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\success-story-details\Mg==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/success-story-details/Mw==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\success-story-details\Mw==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/success-story-details/Ng==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\success-story-details\Ng==.html
+Content Type: text/html
+
+Uri: https://www.gloriousmatrimonial.com/success-story-details/NQ==
+File Name: C:\Downloaded Web Sites\www.gloriousmatrimonial.com\success-story-details\NQ==.html
+Content Type: text/html
+
